@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="th">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>เว็บตูน - หน้าแรก</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <div class="logo">
+            <h1>เว็บตูน</h1>
+        </div>
+        <nav>
+            <ul>
+                <li><a href="index.html">หน้าแรก</a></li>
+                <li><a href="about.html">เกี่ยวกับ</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section class="hero">
+        <h2>ยินดีต้อนรับสู่เว็บตูนของเรา</h2>
+        <p>อ่านการ์ตูนออนไลน์ฟรี</p>
+    </section>
+
+    <section class="comic-list">
+        <h2>การ์ตูนที่ได้รับความนิยม</h2>
+        <div class="comic-item">
+            <img src="https://via.placeholder.com/200x300" alt="Comic 1">
+            <p>ชื่อการ์ตูน 1</p>
+        </div>
+        <div class="comic-item">
+            <img src="https://via.placeholder.com/200x300" alt="Comic 2">
+            <p>ชื่อการ์ตูน 2</p>
+        </div>
+        <div class="comic-item">
+            <img src="https://via.placeholder.com/200x300" alt="Comic 3">
+            <p>ชื่อการ์ตูน 3</p>
+        </div>
+    </section>
+
+    <footer>
+        <p>© 2025 เว็บตูน. สงวนลิขสิทธิ์</p>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>

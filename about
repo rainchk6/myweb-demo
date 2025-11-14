@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="th">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>เกี่ยวกับ - เว็บตูน</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <div class="logo">
+            <h1>เว็บตูน</h1>
+        </div>
+        <nav>
+            <ul>
+                <li><a href="index.html">หน้าแรก</a></li>
+                <li><a href="about.html">เกี่ยวกับ</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section class="about">
+        <h2>เกี่ยวกับเว็บตูน</h2>
+        <p>เว็บตูนของเรามีการ์ตูนหลากหลายประเภทให้คุณได้อ่านและเพลิดเพลินไปกับเรื่องราวสุดมันส์ ทุกการ์ตูนในเว็บไซต์นี้เป็นการ์ตูนที่เราคัดสรรมาเป็นพิเศษ เพื่อให้คุณได้รับประสบการณ์การอ่านที่ดีที่สุด</p>
+    </section>
+
+    <footer>
+        <p>© 2025 เว็บตูน. สงวนลิขสิทธิ์</p>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>
